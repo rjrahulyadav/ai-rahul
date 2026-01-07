@@ -1,0 +1,6 @@
+- [ ] Add custom CSS animations and neo light styles to src/index.css
+- [ ] Enhance hero section in src/App.tsx with animations and particle effects
+- [ ] Add landing animations (fade-in, slide-up) for sections in src/App.tsx
+- [ ] Create an attractive footer in src/App.tsx
+- [ ] Update AgentCard.tsx with neo light hover effects
+- [ ] Test animations and responsiveness
